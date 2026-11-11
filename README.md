@@ -2,7 +2,6 @@
 <h3 align="center">Computer Science & AI Undergraduate | Passionate about software development</h3>
 
 - 🎓 I'm currently following a BSc (Hons) in Computer Science and Artificial Intelligence.
-- 💻 Passionate about Software Development.
 - 🌱 Currently improving my programming and development skills.
 - 📫 How to reach me **fathimaumaira75@gmail.com**
 
