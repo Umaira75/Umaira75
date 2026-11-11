@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fathima Umaira</h1>
 <h3 align="center">Computer Science & AI Undergraduate | Passionate about software development</h3>
 
-- 🌱 I’m currently learning **Software Engineering**
-
+- 🎓 I'm currently following a BSc (Hons) in Computer Science and Artificial Intelligence.
+- 💻 Passionate about Software Development.
+- 🌱 Currently improving my programming and development skills.
 - 📫 How to reach me **fathimaumaira75@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
