@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fathima Umaira</h1>
-<h3 align="center">Computer Science & AI Undergraduate | Passionate about software development</h3>
+<h3 align="center">Computer Science & AI Undergraduate | Passionate about Software Development</h3>
 
 - 🎓 I'm currently following a BSc (Hons) in Computer Science and Artificial Intelligence.
 - 🌱 Learning and improving my programming and development skills.
